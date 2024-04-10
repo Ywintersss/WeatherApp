@@ -1,6 +1,5 @@
 import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import './App.css';
 import Layout from './components/Layout';
 import Home from './pages/home'
 import AllCities from './pages/allcities'
