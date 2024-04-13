@@ -1,11 +1,12 @@
 import React from "react";
 import "./header.css";
+import Logo from "./Logo.jpg";
 
 export default function Header() {
     return (
         <header className="header">
             <div className="title-box">
-                <img src="" alt="Logo" />
+                <img src={Logo} alt="Logo" /><br />
                 <span>Weather App</span>
             </div>
             <div className="navbar">

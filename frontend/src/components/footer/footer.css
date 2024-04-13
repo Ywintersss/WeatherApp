@@ -1,0 +1,32 @@
+footer {
+    align-content: center;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 100;
+    background-color: #242329;
+    height:200px;
+    color: white;
+}
+
+button {
+    font-size: 40px;
+    border: none;
+    background: none;
+    color:gold;
+}
+
+.Rating {
+    display: inline-block;
+    width: 220px;
+    border-bottom: 2px solid #fcfcfc;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Slogan {
+    color: #94e7f7;
+}
+
+.Copyright {
+    text-align: left;
+}

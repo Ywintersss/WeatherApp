@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    margin-left: 20px;
+    background-color: transparent;
+}
+
+header{
+    font-family: cursive;
+    font-weight: 100;
+    background-color: #242329;
+    color: white;
+}
